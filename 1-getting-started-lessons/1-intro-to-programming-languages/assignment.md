@@ -10,7 +10,7 @@ Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
 |Explained why web developer would use tool| Explained how, but not why developer would use tool| Did not mention how or why a developer would use tool  |
 
-##Answer
+## Answer
 
 1. Linter
 Linter used by web developer to check error in their code and prevent future error
