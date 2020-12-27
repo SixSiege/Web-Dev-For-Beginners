@@ -9,3 +9,11 @@ There are many tools that a web developer may need that are on the [MDN document
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
 |Explained why web developer would use tool| Explained how, but not why developer would use tool| Did not mention how or why a developer would use tool  |
+
+##Answer
+
+1. Linter
+Linter used by web developer to check error in their code and prevent future error
+
+2. Bundlers/Packagers
+Used to 
